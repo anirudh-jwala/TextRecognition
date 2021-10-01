@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "371929339992",
+    "project_id": "facyonline-ed212",
+    "storage_bucket": "facyonline-ed212.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371929339992:android:d0c853fea739bcd5bb122d",
+        "android_client_info": {
+          "package_name": "com.example.android.textrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371929339992-ochjk5iem5eg8q7mis9ut0c0to4ft9ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPn9Nfs5mi5v2kIdH7IWnL-0DPVGdV1rE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371929339992-ochjk5iem5eg8q7mis9ut0c0to4ft9ul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371929339992:android:0141d818b46f5861bb122d",
+        "android_client_info": {
+          "package_name": "com.example.lco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371929339992-ochjk5iem5eg8q7mis9ut0c0to4ft9ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPn9Nfs5mi5v2kIdH7IWnL-0DPVGdV1rE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371929339992-ochjk5iem5eg8q7mis9ut0c0to4ft9ul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
