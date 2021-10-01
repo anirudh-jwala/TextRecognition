@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TextRecognition</string>
+    <string name="back">BACK</string>
+    <string name="image_captured">Image captured</string>
+    <string name="open_camera">Open camera</string>
+</resources>
